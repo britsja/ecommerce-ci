@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/britsja/ecommerce-ci.svg?branch=master)](https://travis-ci.org/britsja/ecommerce-ci)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
